@@ -4,7 +4,7 @@ import com.sgic.automation.orangehrm.utils.ExcelDataConfig;
 import org.apache.log4j.Logger;
 import org.testng.annotations.DataProvider;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
+
 
 public class LeaveListData extends ExcelDataConfig {
 
